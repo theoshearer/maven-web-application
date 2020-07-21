@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Mylandmark.Tech- Home Page</title>
-<link href="images/mylandmarklogo.jpg" rel="icon">
+<link href="images/landmarklogo.jpg" rel="icon">
 </head>
 </head>
 <body>

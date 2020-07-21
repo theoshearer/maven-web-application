@@ -10,11 +10,14 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center"> Welcome to Landmark Technologies.......We have a demo on  DevOps with Linux and AWS  on Saturday 8 PM EST for new batch. MyLandmark.Tech Very Good Training center for DevOps with AWS in NA and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews don't believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> Welcome to Landmark Technologies.......We have a demo on  DevOps with Linux and AWS  on Saturday 8 PM EST for new batch. 
+	MyLandmark.Tech is  very Good Training center for DevOps with AWS in NA.
+	We for offer Job Assitance Job Support. Some fake guys are giving the fake reviews don't believe those guys..I am requesting everyone.
+	Please give your reviews in FB, youtube and Google.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/mylandmarklogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Mylandmark.tech, 

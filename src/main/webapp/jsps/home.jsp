@@ -10,20 +10,20 @@
 </head>
 <body>
 <h1 align="center">myLandmark.Tech  --> Your Technology Company</h1>
-<h1 align="center"> Welcome to Landmark Technologies.......We have a demo on  DevOps with Linux and AWS  on Saturday 8 PM EST for new batch. 
+<h1 align="center"> Welcome to Landmark Technologies.......We have a demo on  DevOps with Linux and AWS  on Saturday at 8pm EST for our new batch. 
 	MyLandmark.Tech is a very Good Training center for DevOps with AWS in NA. JESUS IS OUR SUCCESS KEY.
-	We offer Job Assitance Job Support. Some fake guys are giving the fake reviews don't believe those guys..I am requesting everyone.
-	Please give your reviews in FB, youtube and Google.</h1>
+	We offer interview preparations and job assitance.
+	Please give your reviews in FB, youtube and Google and help  a friend</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/landmarklogo.jpg" alt="" width="100">
+		<img src="images/mylandmarklogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Mylandmark.tech, 
 		Toronto, Ontario, Canada
 		Dallas, TX USA, Buea Cameroon
-		++1 437 215 2483,
+		+1 437 215 2483,
 		mylandmarktech@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>

@@ -4,34 +4,37 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Mylandmark.Tech- Home Page</title>
+<link href="images/landmarklogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center"> MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">myLandmark.Tech  --> Your Technology Company</h1>
+<h1 align="center"> Welcome to Landmark Technologies.......We have a demo on  DevOps with Linux and AWS  on Saturday at 8pm EST for our new batch. 
+	MyLandmark.Tech is a very Good Training center for DevOps with AWS in NA. JESUS IS OUR SUCCESS KEY.
+	We offer interview preparations and job assitance.
+	Please give your reviews in facebook, youtube and Google and help  a friend</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/mylandmarklogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226,
-		devopstrainingblr@gmail.com
+		Mylandmark.tech, 
+		Toronto, Ontario, Canada
+		Dallas, TX USA, Buea Cameroon
+		+1 437 215 2483,
+		mylandmarktech@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
 
 </body>
 </html>

@@ -49,8 +49,8 @@ node
    emailext body: '''Build is over
 
    Regards,
-   Mithun Technologies,
-   9980923226.''', subject: 'Build is over', to: 'devopstrainingblr@gmail.com,bhaskar0504@gmail.com'
+   Landmark Technologies,
+   +1 437 215 2483.''', subject: 'Build is over', to: 'mylandmarktech@gmail.com,legah2000@gmail.com'
    }
     
     */

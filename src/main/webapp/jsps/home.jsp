@@ -12,7 +12,7 @@
 <h1 align="center">myLandmark.Tech  --> Your Technology Company</h1>
 <h1 align="center"> Welcome to Landmark Technology.......We have a demo on  DevOps with Linux and AWS  on Saturday August 1 at 8pm EST for our new batch. 
 	MyLandmark.Tech is a very Good Training center for DevOps with AWS in NA. The King is in our midst. JESUS IS OUR SUCCESS KEY.
-	We offer interview preparations and job assitance.
+	We offer interview preparations and job assitance.I have tried it and its working for me!
 	Please give your reviews in facebook, youtube and Google and help  a friend</h1>
 <hr>
 <div style="text-align: center;">

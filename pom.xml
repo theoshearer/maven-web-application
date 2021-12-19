@@ -94,17 +94,18 @@
 	</dependencies>
 		
 	<distributionManagement>
-	
-	    <repository>
+		
+			
+	    <releasesrepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.145.132.198:8000/repository/ebay-bts-releases/</url>
-	    </repository>
+	      <url>http://3.145.132.198:8000/repository/td-webapp-releases/</url>
+	    </releasesrepository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.132.198:8000/repository/ebay-bts-snapshot/</url>
+	      <url>http://3.145.132.198:8000/repository/td-webapps-repo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

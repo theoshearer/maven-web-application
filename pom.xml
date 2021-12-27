@@ -98,7 +98,7 @@
 		
 	<distributionManagement>
 		
-			
+		<!-- Nexus repos -->	
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
